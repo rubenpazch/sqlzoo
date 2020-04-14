@@ -1,74 +1,93 @@
-# Project Name
+# Project: SQL 
 
-> One paragraph statement about the project.
+## Project specifications
 
-![screenshot](./app_screenshot.png)
+SQL Zoo is one of the few resources online that actually lets you build and run queries against existing tables. Each tutorial will show you a table and then have you run queries against it to answer specific questions. Some of the queries, particularly at first, are quite simple. They definitely get more challenging towards the end and can be real head scratchers.
 
-Additional description about the project and its features.
+
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+
+* [Whats is included on this project](#whats-is-included-on-this-project)
+* [Link to assignment](#link-to-assignment)
+* [Built With](#built-with)
+* [Authors](#authors)
+* [Acknowledgements](#acknowledgements)
+* [Contributing](#-Contributing)
+* [License](#license)
+
+
+
+
+## Whats is included on this project
+
+This project includes the next parts:
+
++ 0 SELECT basics
++ 1 SELECT name
++ 2 SELECT from World
++ 3 SELECT from Nobel
++ 4 SELECT within SELECT
++ 5 SUM and COUNT
++ 6 JOIN
++ 7 More JOIN operations
++ 8 Using Null
++ 8+ Numeric Examples
++ 9- Window function
++ 9 Self join
+
+## Link to assignment
+
+the assignment can be found  [here](https://www.theodinproject.com/courses/databases/lessons/sql).
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+Concepts used on this project
 
-## Live Demo
+- SQL 
+- SQLZOO 
+- Mysql
 
-[Live Demo Link](https://livedemo.com)
+Tools used on this project
 
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+- Mysql
+- SQLZOO
 
 
-To get a local copy up and running follow these simple example steps.
+## Screenshot
 
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+![screenshot](./img/screnshot-site.gif)
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Ruben Paz Chuspe**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@rubenpazch](https://github.com/rubenpazch)
+- Linkedin: [rubenpch](https://www.linkedin.com/in/rubenpch/)
 
-👤 **Author2**
+## Contributing
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-## 🤝 Contributing
+This is an education project as a part of the Microverse so contributing is not accepted. 
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues](https://github.com/rubenpazch/capstone-conference-page/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
+## Acknowledgements
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
++ [Microverse](https://www.microverse.org/).
++ [Github](http://github.com/).
++ [Fontawesome](http://fontawesome.com/).
++ [The Odin Project](theodinproject.com/).
++ [sqlzoo.net](https://sqlzoo.net/).
 
-## 📝 License
+## License
 
 This project is [MIT](lic.url) licensed.
+
