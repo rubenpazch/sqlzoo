@@ -54,12 +54,6 @@ Tools used on this project
 - SQLZOO
 
 
-## Screenshot
-
-![screenshot](./img/screnshot-site.gif)
-
-
-
 ## Authors
 
 👤 **Ruben Paz Chuspe**
